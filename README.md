@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi 👋, I'm Shreyas Vengurlekar</h1>
+<h1>Hi 👋, I'm Shreyas </h1>
 <h3 >First Year Computer Science</h3>
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡<br>Design By [Pushkraj](https://github.com/PushkraJ99)<br>Thank Me Later !!!
